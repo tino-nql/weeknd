@@ -253,11 +253,6 @@ export default {
   .form-inline {
     display: block !important;
   }
-
-  .bg-1 {
-    background-image: url();
-  }
-
 }
 @media (min-width: 576px) {
   .video-container {
