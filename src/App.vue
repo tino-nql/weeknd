@@ -39,9 +39,14 @@
           </div>
           <div class="d-inline-block">
             <div class="video-container mr-4 mb-4">
-              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VwdLugyKkWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/5T3ip8yQp_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <h5 class="w-100">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius minus quos quas excepturi fuga tempore voluptates maxime qui corporis! Voluptate quia quibusdam debitis incidunt dicta et accusamus sunt voluptas neque.</h5>
+            <p class="w-100">Sự kết hợp giữa hai rapper đến từ YoungFlames Label hứa hẹn sẽ là một điểm sáng trên bản đồ âm nhạc mùa hè này.
+Sau khi tung ra đoạn teaser và nhận được khá nhiều sự chú ý từ cộng đồng mê nhạc rap, Wxrdie và KayC đã ấn định thời điểm ra mắt MV chính thức vào 4 giờ 20 chiều ngày 8/8/2021.
+Đây là một bài hát mang phong cách rap, hiphop, được kết hợp sản xuất với producer 2pillz – một producer khá “mát tay” khi đã góp mặt vào rất nhiều sản phẩm thành công cho các nghệ sĩ như Suboi, tlinh, MCK,...
+Không chỉ được chăm chút về phần nghe, ở phần hình ảnh, MV “Cuối Tuần” cũng được chú trọng đầu tư lên đến 300 triệu đồng nhằm mang lại cho khán giả những khung hình đẹp, trau chuốt nhất.
+Về mặt nội dung, “Cuối Tuần” là một bài hát mang thông điệp “Hãy làm việc mỗi ngày với tâm thế đó là ngày cuối tuần”. Giải thích cho thông điệp này, hai rappers cho biết, hi vọng mỗi ngày, mọi người đều có thể có cảm giác thư giãn, tận hưởng như thể đó đang là ngày cuối tuần, và mang năng lượng đó truyền vào tất cả những công việc mình làm.
+Đây cũng là “phát súng” đầu tiên cho chuỗi bài hát sắp ra mắt nằm trong EP kết hợp của cả hai nghệ sĩ. Với sự đầu tư, chăm chút của hai nghệ sĩ dành cho sản phẩm này, khán giả hoàn toàn có cơ sở để mong chờ một MV, một bài hát chất lượng để “replay” cả mùa hè.</p>
           </div>
         </div>
       </div>
@@ -51,20 +56,20 @@
           <div class="container-xl mt-5">
             <div class="row">
               <div class="col-sm">
-                <img src="./assets/Untitled-1-04.jpg" width="100%">
-                <img class="mt-4" src="./assets/Untitled-1-06.jpg" width="100%">
-                <img class="mt-4" src="./assets/Untitled-1-07.jpg" width="100%">
+                <img src="./assets/untitled_1_04.jpg" width="100%">
+                <img class="mt-4" src="./assets/untitled_1_06.jpg" width="100%">
+                <img class="mt-4" src="./assets/untitled_1_07.jpg" width="100%">
               </div>
               <div class="col-sm">
-                <img src="./assets/Untitled-1-01.jpg" width="100%">
-                <img class="mt-4" src="./assets/Untitled-1-09.jpg" width="100%">
-                <img class="mt-4" src="./assets/Untitled-1-09.jpg" width="100%">
-                <img class="mt-4" src="./assets/Untitled-1-02.jpg" width="100%">
+                <img src="./assets/untitled_1_01.jpg" width="100%">
+                <img class="mt-4" src="./assets/untitled_1_09.jpg" width="100%">
+                <img class="mt-4" src="./assets/untitled_1_09.jpg" width="100%">
+                <img class="mt-4" src="./assets/untitled_1_02.jpg" width="100%">
               </div>
               <div class="col-sm">
-                <img src="./assets/Untitled-1-03.jpg" width="100%">
-                <img class="mt-4" src="./assets/Untitled-1-05.jpg" width="100%">
-                <img class="mt-4" src="./assets/Untitled-1-08.jpg" width="100%">
+                <img src="./assets/untitled_1_03.jpg" width="100%">
+                <img class="mt-4" src="./assets/untitled_1_05.jpg" width="100%">
+                <img class="mt-4" src="./assets/untitled_1_08.jpg" width="100%">
               </div>
             </div>
           </div>
@@ -73,7 +78,13 @@
       <div class="bg-4">
         <div ref="bio" class="bio container-xl pt-5">
           <div class="title-line">BIO</div>
-          <div class="text-white mt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolorem illum rem doloribus magnam? Libero facere sed architecto, totam officia velit amet a, inventore voluptatibus animi quos sint earum ad nisi in nemo error reiciendis placeat, dicta autem! Alias voluptatibus voluptatem repellendus vel ut maxime libero veritatis ea deleniti sint. Voluptas illo fuga dolore, tempora porro, maiores nihil dignissimos odio, dolor rerum inventore hic illum. Quibusdam deserunt eos eaque, corporis culpa numquam labore ratione eligendi dolorum vero vitae id commodi, beatae eius nesciunt repellat ipsa. Laborum deserunt illo excepturi natus. Blanditiis necessitatibus possimus nobis? Commodi libero esse, totam eius, nisi cumque aliquid recusandae necessitatibus nam illum eligendi iste ab incidunt, quasi enim laborum. Ex, tenetur! Voluptate iusto quis quas ipsa magnam modi, sequi non reprehenderit. Voluptatum quod, voluptates praesentium quidem rerum exercitationem aut veritatis quia dolorem rem nisi, dolorum, est porro vel! Voluptate laborum esse provident nam, autem porro nisi commodi dolor minima exercitationem, tempora quibusdam suscipit neque recusandae, quia distinctio! Dicta, perspiciatis. Ea animi quam cum reprehenderit velit similique veritatis maxime, consequuntur, sed voluptatibus adipisci at quos consectetur officia? Impedit enim natus consequuntur atque eaque repudiandae voluptatum corporis quidem, consectetur culpa, laudantium eum voluptatem amet molestiae sint totam numquam.</div>
+          <div class="text-white mt-5">
+            <ul>
+              <li>YoungFlames Label là một đội ngũ nghệ sĩ HipHop Việt Nam, các thành viên ở trong các mảng khác nhau như: rapper, vocal, producer,... YoungFlames được thành lập vào năm 2019 với mong muốn mang đến cho khán giả một thể loại âm nhạc Rap, Hiphop hiện đại hơn, đẹp hơn và ý nghĩa hơn.</li>
+<li>Wxrdie - tên thật là Phạm Nam Hải, là một rapper trẻ đến từ Hà Nội. Wxrdie thu hút được khá nhiều sự chú ý của cộng đồng yêu thích rap nhờ vào tài năng của mình. Một vài bài hát tiêu biểu của Wxrdie có thể kể đến như: Harder, Chơi Đồ (ft.MCK), Nhạc Anh (ft. Andree),...</li>
+<li>KayC – tên thật là Nguyễn Duy Khôi, là một rapper đến từ Hà Nội, cũng là đồng sáng lập của YoungFlames Label. Các sản phẩm của KayC được nhiều người trong giới đánh giá khá cao, và cũng nhận được sự yêu thích từ khán giả. Một vài sản phẩm tiêu biểu: Không Ai Như Anh Đâu, Khó Ngủ,...</li>
+            </ul>
+          </div>
         </div>
         <div ref="media" class="media-container container-xl pt-5">
           <div class="title-line">MEDIA</div>
@@ -345,7 +356,7 @@ html body {
     rgba(75, 179, 27, 0.45)
   ),
   /* your image */
-  url('../src/assets/LBOO0362.jpg');
+  url('../src/assets/web2.jpg');
   background-size: cover;
   background-position: top left;
   background-repeat: no-repeat;
@@ -366,7 +377,7 @@ html body {
     #146326e0
   ),
   /* your image */
-  url('../src/assets/LBOO9889.jpg');
+  url('../src/assets/web3.jpg');
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
@@ -380,7 +391,7 @@ html body {
     #146326e0
   ),
   /* your image */
-  url('../src/assets/LBOO9997.jpg');
+  url('../src/assets/web4.jpg');
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
@@ -393,9 +404,9 @@ html body {
     #146326e0
   ),
   /* your image */
-  url('../src/assets/LBOO9988.jpg');
+  url('../src/assets/web5.jpg');
   background-size: cover;
-  background-position: top;
+  background-position: center;
   background-repeat: no-repeat;
 }
 .bg-5 {
@@ -406,7 +417,7 @@ html body {
     #146326e0
   ),
   /* your image */
-  url('../src/assets/LBOO0427.jpg');
+  url('../src/assets/web1.jpg');
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
